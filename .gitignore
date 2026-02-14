@@ -1,0 +1,19 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Visual Studio folder
+.vs/
+
+# Build folders (if created)
+Debug/
+Release/
